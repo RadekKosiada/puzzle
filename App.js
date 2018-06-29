@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
-import "./App.css";
-import "./confetti.js";
+import "App.css";
+import "confetti.js";
 
 class App extends React.Component {
   constructor(props) {
